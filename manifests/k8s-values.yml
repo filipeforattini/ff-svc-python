@@ -1,5 +1,6 @@
 #@data/values
 ---
+port: 5000
 
 features:
   enableLinkerd: true
@@ -7,9 +8,8 @@ features:
 env:
   - name: TZ
     value: America/Sao_Paulo
-
-deployment:
-  port: 8080
+  - name: PORT
+    value: 5000
 
 ingress:
   enable: true
