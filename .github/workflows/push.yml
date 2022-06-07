@@ -9,7 +9,7 @@ jobs:
     with:
       mainBranch: main
       platforms: linux/amd64,linux/arm/v8,linux/arm64
-      pythonMatrix: '[3.8, 3.9, 3.10]'
+      pythonMatrix: '["3.10"]'
       containerRegistry: ghcr.io
       environmentsAsNamespaces: true
 
