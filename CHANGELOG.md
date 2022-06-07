@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/filipeforattini/ff-svc-python/compare/v1.0.13...v1.0.14) (2022-06-07)
+
+
+### Bug Fixes
+
+* empty commit for testing ([ee4e650](https://github.com/filipeforattini/ff-svc-python/commit/ee4e6503c6ce43180c8af4ca51ee260bc89d713c))
+
 ## [1.0.13](https://github.com/filipeforattini/ff-svc-python/compare/v1.0.12...v1.0.13) (2022-06-07)
 
 
