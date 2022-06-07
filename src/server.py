@@ -4,6 +4,9 @@ import re
 
 app = Flask(__name__)
 
+def start ():
+    app.run()
+
 @app.route("/")
 def home():
     return "Hello, Flask!"
@@ -21,3 +24,4 @@ def hello_there(name):
 
     content = "Hello there, " + clean_name + "! It's " + formatted_now
     return content
+
