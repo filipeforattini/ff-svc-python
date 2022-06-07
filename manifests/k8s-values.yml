@@ -1,6 +1,6 @@
 #@data/values
 ---
-port: 5000
+port: "5000"
 
 features:
   enableLinkerd: true
@@ -9,7 +9,7 @@ env:
   - name: TZ
     value: America/Sao_Paulo
   - name: PORT
-    value: 5000
+    value: "5000"
 
 ingress:
   enable: true
