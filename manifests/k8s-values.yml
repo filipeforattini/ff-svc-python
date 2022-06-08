@@ -1,6 +1,6 @@
 #@data/values
 ---
-port: "5000"
+port: 5000
 
 features:
   enableLinkerd: true
