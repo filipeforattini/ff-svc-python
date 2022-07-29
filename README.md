@@ -1,4 +1,4 @@
-# ff-svc-python
+# ff-svc-flask
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ## Description
@@ -11,17 +11,17 @@ This repository is an example of a service built with pileline [filipeforattini/
 
 | main | develop |
 | :---: | :---: |
-| ![Branch Main](https://github.com/filipeforattini/ff-svc-python/actions/workflows/push.yml/badge.svg?branch=main) | ![Branch Develop](https://github.com/filipeforattini/ff-svc-python/actions/workflows/push.yml/badge.svg?branch=main) |
+| ![Branch Main](https://github.com/filipeforattini/ff-svc-flask/actions/workflows/push.yml/badge.svg?branch=main) | ![Branch Develop](https://github.com/filipeforattini/ff-svc-flask/actions/workflows/push.yml/badge.svg?branch=main) |
 
 #### Workflows
 
 | push | pull-request |
 | :---: | :---: |
-| ![Event Push](https://github.com/filipeforattini/ff-svc-python/actions/workflows/push.yml/badge.svg) | ![Event Push](https://github.com/filipeforattini/ff-svc-python/actions/workflows/pull-request.yml/badge.svg) |
+| ![Event Push](https://github.com/filipeforattini/ff-svc-flask/actions/workflows/push.yml/badge.svg) | ![Event Push](https://github.com/filipeforattini/ff-svc-flask/actions/workflows/pull-request.yml/badge.svg) |
 
 #### Events
 
 | push | pull_request |
 | :---: | :---: |
-| ![Event Push](https://github.com/filipeforattini/ff-svc-python/actions/workflows/push.yml/badge.svg?event=push) | ![Event Push](https://github.com/filipeforattini/ff-svc-python/actions/workflows/pull-request.yml/badge.svg?event=pull_request) |
+| ![Event Push](https://github.com/filipeforattini/ff-svc-flask/actions/workflows/push.yml/badge.svg?event=push) | ![Event Push](https://github.com/filipeforattini/ff-svc-flask/actions/workflows/pull-request.yml/badge.svg?event=pull_request) |
 
